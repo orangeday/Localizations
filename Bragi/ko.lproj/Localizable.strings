@@ -1,0 +1,43 @@
+"ADD_TO_REACHABILITY" = "접근성에 추가";
+
+"ALBUM_ART_CORNER_RADIUS" = "앨범 표지 모서리 반경";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "모든 레이아웃이 앨범 표지를 표시하지는 않습니다. 표지를 표시하는 레이아웃을 선택하였다면 앨범 표지 모서리의 반지름을 설정할 수 있습니다. \n *수를 직접 입력하려면 숫자부분을 탭하세요. 소수점 입력은 아직 지원하지 않습니다.";
+
+"ART_OVERLAY_THEME" = "표지 오버레이 테마";
+
+"CHANGE_REQUIRES_RESPRING" = "이 옵션을 토글하려면 리스프링이 필요합니다.";
+
+"COLORIZE_CONTROL_CENTER" = "제어센터 색상 변경";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "이 옵션을 켜면 Bragi는 제어센터 색상을 앨범 표지 색상에 맞춰 변경시킵니다. 현재 실험중인 기능이며 점차 향상될 예정입니다.";
+
+"CONFIGURATION" = "설정";
+
+"DEFAULT_MUSIC_PLAYER" = "기본 음악 플레이어";
+
+"DEFAULT_MUSIC_PLAYER_FOOTER" = "음악을 플레이 하는 중이 아닐 때 빈 앨범 표지 이미지를 탭하면 이 앱을 열게 됩니다.";
+
+"ENABLE" = "활성화";
+
+"HIDE_HEART" = "하트 표시 숨기기";
+
+"HIDE_SHARE" = "공유 표시 숨기기";
+
+"INVERT_FOOTER_TEXT" = "왼쪽 스와이프로 이전 곡으로 가는 대신 다음 곡으로 가며, 오른쪽 스와이프로 이전 곡으로 가는 것을 선호하는 분들을 위한 옵션입니다.";
+
+"INVERT_SWIPE_ACTIONS" = "스와이프 액션 반전";
+
+"MAKERS" = "제작자";
+
+"SUPPORT" = "지원";
+
+"TRANSLATION_CREDITS" = "번역 참여";
+
+"USE_CUSTOM_COVER_OVERLAY" = "사용자정의 표지 오버레이 사용";
+
+"USE_BLURREDVIEW_IN_CC" = "접근성(블러) 스타일을 제어센터에서 사용";
+
+"USE_VIBRANCY_LABELS" = "눈에 잘 띄는 라벨 사용";
+
+"VIBRANCY_LABELS_FOOTER" = "'눈에 잘 띄는 라벨' 옵션은 '접근성 스타일을 제어센터에서 사용' 옵션을 활성화 했을 때에만 적용됩니다.";

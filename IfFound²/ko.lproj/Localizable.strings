@@ -1,0 +1,59 @@
+//MAIN PREFS PAGE
+"ENABLED" = "활성화";
+"CONFIGURATION" = "설정";
+"MAKERS" = "개발자";
+"SUPPORT" = "지원";
+
+//CONFIGURATION PREFS PAGE
+"ACTIVATION_METHODS" = "활성화 방법";
+"ACTIVATION_METHODS_FOOTER_TEXT" = "하나 이상의 활성화/비활성화 방법을 선택할 수 있습니다. 창의력 있고 영리한 방법을 생각해 내 보시고 안전을 지키세요.";
+"ADVANCED_SETTINGS" = "고급 설정";
+"ADVANCED_SETTINGS_FOOTER_TEXT" = "버튼 위치를 수동으로 바꾸고 싶을 때에만 이 옵션을 사용하세요. 사용자 설정된 위치를 찾는 데 따로 도울 방법이 없으므로 주의해서 사용하세요.";
+"BUTTON_ACTIONS" = "버튼 액션";
+"BUTTON_ACTIONS_FOOTER_TEXT" = "IfFound 버튼은 Activator 이벤트입니다. Activator에서 설정 가능한 어떤 액션도 트리거 시킬 수 있습니다. 결과적으로는 IfFound 창을 띄우는 트리거로 설정하시길 바랍니다.";
+"BUTTON_TRIGGER" = "버튼 트리거";
+"CALL_OWNER_BUTTON_SETUP" = "전화걸기 버튼 설정";
+"CITY" = "도시";
+"CONTACT_EMAIL_FOOTER_TEXT" = "iffound@cpdigitaldarkroom.com 을 이메일 설정에서 화이트리스트 혹은 VIP inbox에 추가해서 스팸함으로 들어가지 않게 설정하세요.";
+"CONTACT_PICKER_FOOTER_TEXT" = "모종의 이유로 연락처 선택기에서 연락처를 선택할 수 없을 경우에는, 위의 텍스트 박스에 직접 적어 넣으세요.";
+"COUNTRY" = "국가";
+"CREDITS" = "크레딧";
+"CREDITS_FOOTER_TEXT" = "IfFound² Copyright 2014 CP Digital Darkroom";
+"DEVICE_OWNER_NAME" = "기기 소유주 이름";
+"DEVICE_OWNER_NAME_FOOTER_TEXT" = "이름을 적으세요";
+"DISABLE_IFFOUND_BUTTON" = "IfFound 버튼 비활성화";
+"DISABLE_IFFOUND_BUTTON_FOOTER_TEXT" = "버튼을 잠금화면에 표시하지 않길 원하며, Activator 액션을 통해 IfFound 창을 띄우려 할 때 사용하세요.";
+"EMAIL_BUTTON_SETUP" = "이메일 버튼 설정";
+"OWNER_ADDRESS" = "소유주 주소";
+"IFFOUND_STEALTH_EMAIL" = "IfFound 스텔스 이메일";
+"IFFOUND_STEALTH_EMAIL_FOOTER_TEXT" = "스텔스 이메일을 트리거하면 따로 경고창이나 확인창 없이 당신의 이메일로 기기의 위치가 전송됩니다.";
+"IF_FOUND_WINDOW_ACTIVATION" = "If Found 창 켜기";
+"IF_FOUND_WINDOW_DEACTIVATION" = "If Found 창 끄기";
+"PLEASE_RETURN_TO" = "아래 주소로 발송 부탁드립니다";
+"SHOULD_SHOW_CLOSE_BUTTON" = "Show Close Button";
+"STATE" = "주";
+"THIS_DEVICE_BELONGS_TO" = "이 기기는 아래 사람의 소유입니다";
+"USE_MANUAL_POSITIONING" = "수동 위치 지정 사용";
+"ZIP_CODE" = "우편번호";
+
+//TWEAK ALERTS
+"ALERT_CALL_CANNOT_BE_COMPLETED" = "다이얼이 제대로 완료되지 않았습니다. 전화번호가 잘못 설정된 것 같습니다.";
+"ALERT_CANCEL" = "취소";
+"ALERT_CHOOSE_PHOTO" = "가지고 있는 사진 선택";
+"ALERT_DELETE_PHOTO" = "사진 제거";
+"ALERT_DISMISS" = "삭제";
+"ALERT_ENTER" = "입력";
+"ALERT_ENTER_CORRECT_VALUE" = "유효한 값을 입력했는지 확인해 주세요.";
+"ALERT_ERROR" = "에러";
+"ALERT_ENTER_VALUE" = "%i 에서 %i 사이의 값을 입력해 주세요.";
+"ALERT_EMAIL_ERROR" = "지금 이메일을 보낼 수 없습니다. 몇 분 후에 다시 시도해 주세요.";
+"ALERT_EMAIL_SENT" = "기기 소유주에게 정상적으로 이메일이 전송되었습니다.";
+"ALERT_NO_IMAGE_CURRENTLY_SAVED" = "현재 소유주 사진으로 저장된 사진이 없습니다.";
+"ALERT_OK" = "확인";
+"ALERT_TAKE_OR_CHOOSE" = "새로운 사진을 촬영하시겠습니까, 아니면 가지고 있는 사진을 선택하시겠습니까?";
+"ALERT_TAKE_PHOTO" = "사진 촬영";
+
+//TWEAK BUTTONS MAKE THESE ALL CAPS IF POSSIBLE
+"CALL_OWNER" = "전화하기";
+"EMAIL_OWNER" = "이메일 보내기";
+"MESSAGE_OWNER" = "메시지 보내기";
