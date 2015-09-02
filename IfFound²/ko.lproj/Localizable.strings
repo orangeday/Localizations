@@ -41,7 +41,7 @@
 "ALERT_CANCEL" = "취소";
 "ALERT_CHOOSE_PHOTO" = "가지고 있는 사진 선택";
 "ALERT_DELETE_PHOTO" = "사진 제거";
-"ALERT_DISMISS" = "삭제";
+"ALERT_DISMISS" = "닫기";
 "ALERT_ENTER" = "입력";
 "ALERT_ENTER_CORRECT_VALUE" = "유효한 값을 입력했는지 확인해 주세요.";
 "ALERT_ERROR" = "에러";
